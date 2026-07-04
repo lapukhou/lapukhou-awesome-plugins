@@ -44,6 +44,32 @@
                 "repo": "AvdLee/Xcode-Build-Optimization-Agent-Skill",
                 "source": "github"
             }
+        },
+        {
+            "author": {
+                "email": "contact@avanderlee.com",
+                "name": "Antoine van der Lee"
+            },
+            "license": "MIT",
+            "name": "swift-testing-expert",
+            "repository": "https://github.com/AvdLee/Swift-Testing-Agent-Skill",
+            "source": {
+                "repo": "AvdLee/Swift-Testing-Agent-Skill",
+                "source": "github"
+            }
+        },
+        {
+            "author": {
+                "email": "contact@avanderlee.com",
+                "name": "Antoine van der Lee"
+            },
+            "license": "MIT",
+            "name": "core-data-expert",
+            "repository": "https://github.com/AvdLee/Core-Data-Agent-Skill",
+            "source": {
+                "repo": "AvdLee/Core-Data-Agent-Skill",
+                "source": "github"
+            }
         }
     ]
 }
