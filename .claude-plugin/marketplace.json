@@ -18,6 +18,19 @@
                 "repo": "AvdLee/SwiftUI-Agent-Skill",
                 "source": "github"
             }
+        },
+        {
+            "author": {
+                "email": "contact@avanderlee.com",
+                "name": "Antoine van der Lee"
+            },
+            "license": "MIT",
+            "name": "swift-concurrency",
+            "repository": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
+            "source": {
+                "repo": "AvdLee/Swift-Concurrency-Agent-Skill",
+                "source": "github"
+            }
         }
     ]
 }
