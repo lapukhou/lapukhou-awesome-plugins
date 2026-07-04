@@ -31,6 +31,19 @@
                 "repo": "AvdLee/Swift-Concurrency-Agent-Skill",
                 "source": "github"
             }
+        },
+        {
+            "author": {
+                "email": "contact@avanderlee.com",
+                "name": "Antoine van der Lee"
+            },
+            "license": "MIT",
+            "name": "xcode-build-skills",
+            "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+            "source": {
+                "repo": "AvdLee/Xcode-Build-Optimization-Agent-Skill",
+                "source": "github"
+            }
         }
     ]
 }
