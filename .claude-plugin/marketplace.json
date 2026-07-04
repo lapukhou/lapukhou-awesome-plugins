@@ -11,26 +11,13 @@
                 "email": "contact@avanderlee.com",
                 "name": "Antoine van der Lee"
             },
-            "description": "Expert SwiftUI guidance for state management, view composition, performance, and iOS 26+ Liquid Glass adoption.",
-            "homepage": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
-            "keywords": [
-                "swift",
-                "swiftui",
-                "ios",
-                "apple",
-                "state-management",
-                "performance",
-                "liquid-glass",
-                "view-composition"
-            ],
             "license": "MIT",
             "name": "swiftui-expert",
             "repository": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
             "source": {
                 "repo": "AvdLee/SwiftUI-Agent-Skill",
                 "source": "github"
-            },
-            "version": "4.0.0"
+            }
         }
     ]
 }
