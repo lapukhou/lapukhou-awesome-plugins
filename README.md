@@ -21,6 +21,11 @@ Then install a plugin:
 | Plugin | Repository | Description |
 | --- | --- | --- |
 | `swiftui-expert` | [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | Expert SwiftUI guidance for state management, view composition, performance, and iOS 26+ Liquid Glass adoption. |
+| `swift-concurrency` | [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) | Swift Concurrency guidance: actors, async/await, Sendable, and strict concurrency migration. |
+| `xcode-build-skills` | [AvdLee/Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) | Xcode build optimization and troubleshooting skills. |
+| `swift-testing-expert` | [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill) | Swift Testing framework guidance and migration from XCTest. |
+| `core-data-expert` | [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) | Core Data best practices, migrations, and performance. |
+| `mattpocock-skills` | [mattpocock/skills](https://github.com/mattpocock/skills) | Matt Pocock's engineering and productivity skills: TDD, code review, triage, domain modeling, PRDs, and more. |
 
 ## Adding a plugin
 

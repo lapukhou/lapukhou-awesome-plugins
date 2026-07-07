@@ -70,6 +70,18 @@
                 "repo": "AvdLee/Core-Data-Agent-Skill",
                 "source": "github"
             }
+        },
+        {
+            "author": {
+                "name": "Matt Pocock"
+            },
+            "license": "MIT",
+            "name": "mattpocock-skills",
+            "repository": "https://github.com/mattpocock/skills",
+            "source": {
+                "repo": "mattpocock/skills",
+                "source": "github"
+            }
         }
     ]
 }
