@@ -15,8 +15,8 @@
             "name": "swiftui-expert",
             "repository": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
             "source": {
-                "repo": "AvdLee/SwiftUI-Agent-Skill",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/AvdLee/SwiftUI-Agent-Skill.git"
             }
         },
         {
@@ -28,8 +28,8 @@
             "name": "swift-concurrency",
             "repository": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
             "source": {
-                "repo": "AvdLee/Swift-Concurrency-Agent-Skill",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill.git"
             }
         },
         {
@@ -41,8 +41,8 @@
             "name": "xcode-build-skills",
             "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
             "source": {
-                "repo": "AvdLee/Xcode-Build-Optimization-Agent-Skill",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill.git"
             }
         },
         {
@@ -54,8 +54,8 @@
             "name": "swift-testing-expert",
             "repository": "https://github.com/AvdLee/Swift-Testing-Agent-Skill",
             "source": {
-                "repo": "AvdLee/Swift-Testing-Agent-Skill",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/AvdLee/Swift-Testing-Agent-Skill.git"
             }
         },
         {
@@ -67,8 +67,8 @@
             "name": "core-data-expert",
             "repository": "https://github.com/AvdLee/Core-Data-Agent-Skill",
             "source": {
-                "repo": "AvdLee/Core-Data-Agent-Skill",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/AvdLee/Core-Data-Agent-Skill.git"
             }
         },
         {
@@ -79,8 +79,8 @@
             "name": "mattpocock-skills",
             "repository": "https://github.com/mattpocock/skills",
             "source": {
-                "repo": "mattpocock/skills",
-                "source": "github"
+                "source": "url",
+                "url": "https://github.com/mattpocock/skills.git"
             }
         }
     ]
