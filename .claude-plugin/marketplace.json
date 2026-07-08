@@ -82,6 +82,20 @@
                 "source": "url",
                 "url": "https://github.com/mattpocock/skills.git"
             }
+        },
+        {
+            "author": {
+                "name": "TerminallyLazy",
+                "url": "https://github.com/TerminallyLazy"
+            },
+            "description": "Local-first memory lifecycle guidance for Claude Code using Tree Ring Memory.",
+            "license": "MIT",
+            "name": "tree-ring-memory",
+            "repository": "https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin.git"
+            }
         }
     ]
 }

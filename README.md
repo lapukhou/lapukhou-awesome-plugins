@@ -26,6 +26,7 @@ Then install a plugin:
 | `swift-testing-expert` | [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill) | Swift Testing framework guidance and migration from XCTest. |
 | `core-data-expert` | [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) | Core Data best practices, migrations, and performance. |
 | `mattpocock-skills` | [mattpocock/skills](https://github.com/mattpocock/skills) | Matt Pocock's engineering and productivity skills: TDD, code review, triage, domain modeling, PRDs, and more. |
+| `tree-ring-memory` | [TerminallyLazy/tree-ring-memory-claude-plugin](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin) | Local-first memory lifecycle guidance for Claude Code agents using Tree Ring Memory. |
 
 ## Adding a plugin
 
