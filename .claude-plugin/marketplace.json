@@ -82,6 +82,18 @@
                 "source": "url",
                 "url": "https://github.com/mattpocock/skills.git"
             }
+        },
+        {
+            "author": {
+                "name": "ScrapeCreators"
+            },
+            "license": "MIT",
+            "name": "social-media-research-skills",
+            "repository": "https://github.com/ScrapeCreators/social-media-research-skills",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/ScrapeCreators/social-media-research-skills.git"
+            }
         }
     ]
 }
